@@ -1,0 +1,12 @@
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.exe.config
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.exe
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.pdb
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\bin\Debug\MetroFramework.dll
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.csprojAssemblyReference.cache
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.Form1.resources
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.Properties.Resources.resources
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.csproj.GenerateResource.cache
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.csproj.CopyComplete
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.exe
+C:\Users\ryuja\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.pdb
